@@ -1,10 +1,10 @@
 ``` console
-$ whoami
+whoami
 ```
-# Benjamin Muthui
+Benjamin Muthui
 
 ``` console
-$ echo "$CAREER".
+echo "$CAREER".
 ```
-# I AM A NATIVE ANDROID DEVELOPER AND SECURITY RESEARCHER
+I AM A NATIVE ANDROID DEVELOPER AND SECURITY RESEARCHER
 
