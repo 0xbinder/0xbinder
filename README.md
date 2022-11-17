@@ -6,9 +6,9 @@
 
 <p align="center">
 <img alt="Profile View" src="https://gpvc.arturio.dev/BENJAHJP" />
+</p>
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=BENJAHJP.BENJAHJP)
 [![Github](https://img.shields.io/github/followers/BENJAHJP?label=Follow&style=social)](https://github.com/BENJAHJP)
-</p>
 
 ```kotlin
 object Benjamin {
