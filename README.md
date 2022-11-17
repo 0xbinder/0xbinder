@@ -1,10 +1,10 @@
-``` console
+``` php
 whoami
 ```
 Benjamin Muthui
 
-``` console
-echo "$CAREER".
+``` php
+echo "$CAREER"
 ```
 I AM A NATIVE ANDROID DEVELOPER AND SECURITY RESEARCHER
 
