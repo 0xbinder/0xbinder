@@ -37,16 +37,11 @@ My name is Benjamin and I'm a native android developer.
 
 ## Github Stats
 
-<details> 
   <br/>
     <img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=BENJAHJP&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENJAHJP&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" />
-
 -----
 
 ## Jokes
