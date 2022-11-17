@@ -1,5 +1,5 @@
 <p align="center">
- <img width="20%"alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ <img width="20%"alt="Github" src="https://octodex.github.com/welcometocat/" />
  <h2 align="center">BENJAMIN - @Muthui_</h2>
  <p align="center">Native Android App Developer</p>
 </p>
