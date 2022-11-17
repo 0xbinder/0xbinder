@@ -4,7 +4,7 @@
 
 ## Code
 
-``` 
+``` console
 whoami
 > Benjamin 
 ```
