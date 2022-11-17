@@ -1,6 +1,5 @@
-### Hi there 👋
-
-## Native Android Developer
+### Whoami
+## Benjamin Muthui
 
 ## Code
 
