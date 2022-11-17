@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-<img alt="Profile View" src="https://gpvc.arturio.dev/Hendrasob" />
+<img alt="Profile View" src="https://gpvc.arturio.dev/BENJAHJP" />
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=BENJAHJP.BENJAHJP)
+[![Github](https://img.shields.io/github/followers/BENJAHJP?label=Follow&style=social)](https://github.com/BENJAHJP)
 </p>
 
 ```kotlin
@@ -19,9 +21,6 @@ object Benjamin {
  }
 }
 ```
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=BENJAHJP.BENJAHJP)
-[![Github](https://img.shields.io/github/followers/BENJAHJP?label=Follow&style=social)](https://github.com/BENJAHJP)
 
 ## $ cat etc/shadow/techstack
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
