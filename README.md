@@ -8,8 +8,8 @@ echo "$CAREER"
 ```
 ## I AM A NATIVE ANDROID DEVELOPER AND SECURITY RESEARCHER
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=BENJAHJP.BENJAHJP)
+[![Github](https://img.shields.io/github/followers/BENJAHJP?label=Follow&style=social)](https://github.com/BENJAHJP)
 
 ``` console
 cat etc/shadow/techstack
