@@ -7,7 +7,11 @@
 <p align="center">
 <img alt="Profile View" src="https://gpvc.arturio.dev/BENJAHJP" />
 </p>
+
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+
 ```kotlin
 object Benjamin {
  val name: String = "Benjamin"
