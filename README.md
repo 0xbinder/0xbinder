@@ -1,12 +1,12 @@
-``` console
+``` bash
 whoami
 ```
-Benjamin Muthui
+#Benjamin Muthui
 
-``` php
+``` bash
 echo "$CAREER"
 ```
-I AM A NATIVE ANDROID DEVELOPER AND SECURITY RESEARCHER
+#I AM A NATIVE ANDROID DEVELOPER AND SECURITY RESEARCHER
 
 ``` console
 cat etc/shadow/techstack
