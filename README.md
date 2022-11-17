@@ -38,7 +38,6 @@ My name is Benjamin and I'm a native android developer.
 ## Github Stats
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=BENJAHJP&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENJAHJP&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
