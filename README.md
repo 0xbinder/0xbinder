@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/hendrasob/hendrasob/blob/master/assets/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
+ <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  <h2 align="center">Mahendra - @Hendrasob</h2>
  <p align="center">Front end and Web Developer</p>
 </p>
@@ -12,36 +12,21 @@
 object Benjamin {
  val name: String = "Benjamin"
  
- val techStack = listOf("Android", "Python", "Rust", "Laravel", "Pytorch")
+ val techStack = listOf("Android", "Android Sec", "Python", "Rust", "Laravel", "Pytorch")
 
  val contact = "@muthui.__".apply {
    instagram = this
  }
 }
 ```
-## Hello, there
+## Whoami
 
 My name is Benjamin and I'm a native android developer.
-
-
-``` console
-whoami
-```
-## Benjamin Muthui
-
-``` php
-echo "$CAREER"
-```
-## I AM A NATIVE ANDROID DEVELOPER AND SECURITY RESEARCHER
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=BENJAHJP.BENJAHJP)
 [![Github](https://img.shields.io/github/followers/BENJAHJP?label=Follow&style=social)](https://github.com/BENJAHJP)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-``` console
-cat etc/shadow/techstack
-```
+## cat etc/shadow/techstack
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=kotlin&sort= > <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
