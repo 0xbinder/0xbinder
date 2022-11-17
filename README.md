@@ -1,6 +1,6 @@
 <p align="center">
- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
- <h2 align="center">Mahendra - @Hendrasob</h2>
+ <img width="20%"alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ <h2 align="center">BENJAMIN - @Muthui_</h2>
  <p align="center">Front end and Web Developer</p>
 </p>
 
