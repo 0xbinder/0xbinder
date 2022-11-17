@@ -7,9 +7,7 @@
 <p align="center">
 <img alt="Profile View" src="https://gpvc.arturio.dev/BENJAHJP" />
 </p>
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=BENJAHJP.BENJAHJP)
-[![Github](https://img.shields.io/github/followers/BENJAHJP?label=Follow&style=social)](https://github.com/BENJAHJP)
-
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 ```kotlin
 object Benjamin {
  val name: String = "Benjamin"
@@ -21,6 +19,8 @@ object Benjamin {
  }
 }
 ```
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=BENJAHJP.BENJAHJP)
+[![Github](https://img.shields.io/github/followers/BENJAHJP?label=Follow&style=social)](https://github.com/BENJAHJP)
 
 ## $ cat etc/shadow/techstack
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
@@ -30,6 +30,7 @@ object Benjamin {
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'> </a>
+<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vim.svg'> </a>
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
 
