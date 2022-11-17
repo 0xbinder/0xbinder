@@ -1,5 +1,5 @@
 <p align="center">
- <img width="20%"alt="Github" src="https://octodex.github.com/welcometocat/" />
+ <img width="20%"alt="Github" src="https://octodex.github.com/images/welcometocat.png" />
  <h2 align="center">BENJAMIN - @Muthui_</h2>
  <p align="center">Native Android App Developer</p>
 </p>
@@ -37,12 +37,11 @@ object Benjamin {
 
 ## echo "$Github Stats"
 
-<img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=BENJAHJP&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENJAHJP&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=BENJAHJP&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENJAHJP&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
- <br>
+ 
 <a href = 'https://www.github.com/BENJAHJP'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 ## Jokes
