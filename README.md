@@ -1,4 +1,4 @@
-``` php
+``` console
 whoami
 ```
 Benjamin Muthui
@@ -8,3 +8,6 @@ echo "$CAREER"
 ```
 I AM A NATIVE ANDROID DEVELOPER AND SECURITY RESEARCHER
 
+``` console
+cat etc/shadow/techstack
+```
