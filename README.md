@@ -1,4 +1,10 @@
 ``` console
-###whoami
-##> Benjamin 
+$ Whoami
 ```
+# Benjamin Muthui
+
+``` console
+$ echo "$CAREER".
+```
+# I AM A NATIVE ANDROID DEVELOPER AND SECURITY RESEARCHER
+
