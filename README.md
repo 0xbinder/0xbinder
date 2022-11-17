@@ -1,5 +1,5 @@
 ``` console
-$ Whoami
+$ whoami
 ```
 # Benjamin Muthui
 
