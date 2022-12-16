@@ -12,7 +12,7 @@
 object Benjamin {
  val name: String = "Benjamin"
  
- val techStack = listOf("Android", "Android Sec", "Python", "Rust", "Laravel", "Pytorch")
+ val techStack = listOf("Android", "Android Security", "Python", "Rust", "Laravel", "Pytorch")
 
  val contact = "@muthui.__".apply {
    instagram = this
@@ -42,7 +42,7 @@ object Benjamin {
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
  
 <a href = 'https://www.github.com/BENJAHJP'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = ''>Benjahjp@gmail.com <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"/></a>
+<a href = ''>Benjahjp@gmail.com <img width = '32px' align= 'center'></a>
 
 ## Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
