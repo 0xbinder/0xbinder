@@ -32,12 +32,7 @@ object Benjamin {
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'> </a>
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
-
-## echo "$Github Stats"
-
-<img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=BENJAHJP&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENJAHJP&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-  
+<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>  
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
  
