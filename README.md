@@ -12,7 +12,7 @@
 object Benjamin {
  val name: String = "Benjamin"
  
- val techStack = listOf("Android", "Android Security", "Python", "Rust", "Laravel", "Pytorch")
+ val techStack = listOf("Android", "Android Security", "Python", "Rust", "Laravel", "Pytorch", "Swift")
 
  val contact = "@muthui.__".apply {
    instagram = this
@@ -25,6 +25,7 @@ object Benjamin {
 
 ## sudo cat etc/shadow/techstack
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
