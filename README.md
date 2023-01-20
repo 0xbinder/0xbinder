@@ -12,7 +12,7 @@
 object Benjamin {
  val name: String = "Benjamin"
  
- val techStack = listOf("Android", "Android Security", "Python", "Rust", "Laravel", "Pytorch", "Swift")
+ val techStack = listOf("Android", "Android Security", "Swift", "Python", "Rust", "Laravel", "Pytorch")
 
  val contact = "@muthui.__".apply {
    instagram = this
