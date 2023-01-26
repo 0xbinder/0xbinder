@@ -1,7 +1,7 @@
 <p align="center">
  <img width="20%"alt="Github" src="https://octodex.github.com/images/welcometocat.png" />
  <h2 align="center">BENJAMIN - @Muthui_</h2>
- <p align="center">Native Android App Developer</p>
+ <p align="center">Native Android and iOS App Developer</p>
 </p>
 
 <p align="center">
