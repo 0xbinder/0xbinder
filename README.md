@@ -35,10 +35,5 @@ object Benjamin {
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
 <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>  
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
- 
-<a href = 'https://www.github.com/BENJAHJP'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = ''>Benjahjp@gmail.com <img width = '32px' align= 'center'></a>
-
 ## Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
