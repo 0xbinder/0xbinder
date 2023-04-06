@@ -1,7 +1,7 @@
 <p align="center">
  <img width="20%"alt="Github" src="https://octodex.github.com/images/welcometocat.png" />
  <h2 align="center">BENJAMIN - @Muthui_</h2>
- <p align="center">Native Android and iOS App Developer</p>
+ <p align="center">Native Android Developer</p>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 object Benjamin {
  val name: String = "Benjamin"
  
- val techStack = listOf("Android", "Android Security", "Swift", "Python", "Rust", "Laravel", "Pytorch")
+ val techStack = listOf("Android", "Android Security", "Python", "Rust", "Laravel", "Pytorch")
 
  val contact = "@muthui.__".apply {
    instagram = this
