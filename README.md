@@ -1,39 +1,14 @@
-<p align="center">
- <img width="20%"alt="Github" src="https://octodex.github.com/images/welcometocat.png" />
- <h2 align="center">BENJAMIN - @Muthui_</h2>
- <p align="center">Native Android Developer</p>
-</p>
-
-<p align="center">
-<img alt="Profile View" src="https://gpvc.arturio.dev/BENJAHJP" />
-</p>
 
 ```kotlin
 object Benjamin {
  val name: String = "Benjamin"
  
- val techStack = listOf("Android", "Android Security", "Python", "Rust", "Laravel", "Pytorch")
+ val techStack = listOf("Android", "Android Security", "Python", "Rust")
 
  val contact = "@muthui.__".apply {
    instagram = this
  }
 }
 ```
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=BENJAHJP.BENJAHJP)
-[![Github](https://img.shields.io/github/followers/BENJAHJP?label=Follow&style=social)](https://github.com/BENJAHJP)
-
-## sudo cat etc/shadow/techstack
-<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
-<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
-<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'> </a>
-<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>  
-
 ## Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
