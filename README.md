@@ -3,10 +3,8 @@
 object Benjamin {
  val name: String = "Benjamin"
  
- val techStack = listOf("Android", "Android Security Researcher", "Python", "Rust")
+ val techStack = listOf("Android", "Android Security Researcher", "Kotlin", "Python", "Rust")
 
- val contact = "@muthui.__".apply {
-   instagram = this
- }
+ val contact = "@muthui.__".apply { instagram = this }
 }
 ```
