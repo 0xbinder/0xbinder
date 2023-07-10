@@ -10,7 +10,7 @@ impl Whoami {
         Whoami {
             name: String::from("QmVuamFtaW4="),
             tech_stack: vec![
-                String::from("Android"),
+                String::from("Android Engineer"),
                 String::from("Security Researcher"),
                 String::from("Kotlin"),
                 String::from("Python"),
