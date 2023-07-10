@@ -1,10 +1,23 @@
 
-```kotlin
-object Benjamin {
-
-  val name: String = "Benjamin"
- 
-  val techStack = listOf("Android", "Security Researcher", "Kotlin", "Python", "Rust")
-  
+```rust
+struct Whoami {
+    name: String,
+    tech_stack: Vec<String>,
 }
+
+impl Whoami {
+    fn new() -> Self {
+        Whoami {
+            name: String::from("QmVuamFtaW4="),
+            tech_stack: vec![
+                String::from("Android"),
+                String::from("Security Researcher"),
+                String::from("Kotlin"),
+                String::from("Python"),
+                String::from("Rust"),
+            ],
+        }
+    }
+}
+
 ```
