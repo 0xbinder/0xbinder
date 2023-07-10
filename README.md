@@ -8,7 +8,7 @@ struct Whoami {
 impl Whoami {
     fn new() -> Self {
         Whoami {
-            name: String::from("QmVuamFtaW4="),
+            name: base64::decode("QmVuamFtaW4="),
             tech_stack: vec![
                 String::from("Android Engineer"),
                 String::from("Security Researcher"),
