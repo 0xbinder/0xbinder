@@ -15,6 +15,7 @@ impl Whoami {
                 String::from("Kotlin"),
                 String::from("Python"),
                 String::from("Rust"),
+                String::from("Flutter"),
             ],
         }
     }
