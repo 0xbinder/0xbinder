@@ -14,8 +14,7 @@ impl Whoami {
                 String::from("Security Researcher"),
                 String::from("Kotlin"),
                 String::from("Python"),
-                String::from("Rust"),
-                String::from("Flutter"),
+                String::from("Rust")
             ],
         }
     }
