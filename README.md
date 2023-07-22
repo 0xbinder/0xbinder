@@ -12,7 +12,6 @@ impl Whoami {
             tech_stack: vec![
                 String::from("Android Engineer"),
                 String::from("Security Researcher"),
-                String::from("Pentester"),
                 String::from("Bug bounty hunter"),
                 String::from("Kotlin"),
                 String::from("Python"),
