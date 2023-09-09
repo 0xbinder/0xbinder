@@ -12,11 +12,6 @@ impl Whoami {
             tech_stack: vec![
                 String::from("Android Engineer"),
                 String::from("Security Researcher"),
-                String::from("Google cloud"),
-                String::from("Laravel"),
-                String::from("Flutter"),
-                String::from("Kotlin"),
-                String::from("Python"),
                 String::from("Rust")
             ],
         }
