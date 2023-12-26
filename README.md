@@ -11,8 +11,8 @@ impl Whoami {
             name: base64::decode("QmVuamFtaW4="),
             tech_stack: vec![
                 String::from("Android Engineer"),
-                String::from("Security Researcher"),
-                String::from("Rust")
+                String::from("Offensive security researcher"),
+                String::from("Rustacean")
             ],
         }
     }
