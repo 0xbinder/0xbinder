@@ -8,10 +8,11 @@ struct Whoami {
 impl Whoami {
     fn new() -> Self {
         Whoami {
-            name: base64::decode("QmVuamFtaW4="),
+            name: String::from("pl4int3xt"),
             tech_stack: vec![
                 String::from("Android Engineer"),
-                String::from("Offensive security researcher"),
+                String::from("Offensive security"),
+                String::from("CTF player @p3rf3ctr00t"),
                 String::from("Rustacean")
             ],
         }
