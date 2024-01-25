@@ -1,4 +1,3 @@
-
 ```rust
 struct Whoami {
     name: String,
@@ -10,13 +9,11 @@ impl Whoami {
         Whoami {
             name: String::from("pl4int3xt"),
             tech_stack: vec![
-                String::from("Android Engineer"),
-                String::from("Offensive security"),
+                String::from("Android world"),
                 String::from("CTF player @p3rf3ctr00t"),
                 String::from("Rustacean")
             ],
         }
     }
 }
-
 ```
