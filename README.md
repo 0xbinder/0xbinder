@@ -12,6 +12,7 @@ impl Whoami {
                 String::from("Android Dev and Hacking"),
                 String::from("CTF player @p3rf3ctr00t"),
                 String::from("Rustacean")
+                String::from("Flutter)
             ],
         }
     }
