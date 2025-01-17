@@ -1,2 +1,2 @@
 ## Meet 0xbinder 🕶️💻
-Learning Reverse engineering, Fuzzing Android Kernel and Exploiting Android Apps
+Learning Secure Android App development, Exploitation, Reverse engineering and Fuzzing Android Kernel
